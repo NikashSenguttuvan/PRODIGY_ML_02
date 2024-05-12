@@ -21,3 +21,5 @@ How to Use:<br>
 Clone the Repository: Get a local copy of this repository to start working on the project.<br>
 Install Dependencies: Install the required Python libraries using pip install -r requirements.txt.<br>
 Run the Analysis: Execute the Jupyter notebooks to perform the clustering and visualize the results.<br>
+Dataset:<br>
+link:(https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)
