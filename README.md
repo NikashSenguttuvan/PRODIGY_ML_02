@@ -23,3 +23,7 @@ Install Dependencies: Install the required Python libraries using pip install -r
 Run the Analysis: Execute the Jupyter notebooks to perform the clustering and visualize the results.<br>
 Dataset:<br>
 link:(https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)
+Images:<br>
+<img width="769" alt="Screenshot 2024-05-12 125519" src="https://github.com/NikashSenguttuvan/PRODIGY_ML_02/assets/166650393/4b887f37-06f9-4c4c-8a51-67b718bc056f"><br>
+<img width="767" alt="Screenshot 2024-05-12 125327" src="https://github.com/NikashSenguttuvan/PRODIGY_ML_02/assets/166650393/9dbfd190-bac7-4c2f-aa4c-a5d6e915d610">
+
