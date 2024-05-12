@@ -1,4 +1,3 @@
-# PRODIGY_ML_02
 # Retail Customer Segmentation with K-Means Clustering<br>
 This repository hosts the implementation of the k-means clustering algorithm used to segment customers of a retail store according to their purchase history. This project aims to identify distinct groups within the customer base to tailor marketing strategies and improve customer engagement effectively.<br>
 
